@@ -1,0 +1,50 @@
+.container {
+  margin-bottom: 70px;
+}
+.buy-now-btn {
+  color: white;
+  background-color: black;
+  border-radius: 7px;
+  padding: 5px 10px;
+}
+.carousel h2,
+p {
+  color: white;
+}
+.carousel-item {
+  padding: 20px 30px;
+}
+.smartphone p {
+  color: black;
+}
+.smartphone img {
+  padding: 40px 60px;
+}
+.laptop p {
+  color: black;
+}
+.smartphone .card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px lightgray;
+}
+.laptop .card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px lightgray;
+}
+.see-all {
+  color: orange;
+}
+.cat1 {
+  background-color: coral;
+  padding: 15px 20px;
+}
+.a {
+  background-color: violet;
+  padding: 15px 20px;
+}
+.b {
+  background-color: yellowgreen;
+  padding: 15px 20px;
+}
