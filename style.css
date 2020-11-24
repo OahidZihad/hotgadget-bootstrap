@@ -7,6 +7,9 @@
   border-radius: 7px;
   padding: 5px 10px;
 }
+.carousel {
+  border-radius: 20px;
+}
 .carousel h2,
 p {
   color: white;
@@ -37,14 +40,37 @@ p {
   color: orange;
 }
 .cat1 {
-  background-color: coral;
+  /* background-color: coral; */
   padding: 15px 20px;
 }
 .a {
-  background-color: violet;
+  /* background-color: violet; */
   padding: 15px 20px;
 }
 .b {
-  background-color: yellowgreen;
+  /* background-color: yellowgreen; */
   padding: 15px 20px;
+}
+.a img {
+  padding: 25px 45px;
+  margin-left: 70px;
+  margin-bottom: 15px;
+}
+.b img {
+  padding: 25px 45px;
+  margin-left: 70px;
+}
+.a h5 {
+  margin-top: -20px;
+  margin-left: 155px;
+}
+.b h5 {
+  margin-top: -30px;
+  margin-left: 155px;
+}
+.cat1 h5 {
+  margin-left: 95px;
+}
+.cat1 img {
+  padding: 25px 45px;
 }
