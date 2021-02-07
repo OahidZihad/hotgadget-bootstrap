@@ -1,3 +1,6 @@
+.body {
+  background-color: rgb(255, 255, 255);
+}
 .container {
   margin-bottom: 70px;
 }
@@ -39,38 +42,47 @@ p {
 .see-all {
   color: orange;
 }
-.cat1 {
-  /* background-color: coral; */
-  padding: 15px 20px;
-}
-.a {
-  /* background-color: violet; */
+/* .cat1 { */
+/* background-color: coral; */
+/* padding: 15px 20px; */
+/* } */
+/* .a {
   padding: 15px 20px;
 }
 .b {
-  /* background-color: yellowgreen; */
   padding: 15px 20px;
-}
+} */
 .a img {
-  padding: 25px 45px;
-  margin-left: 70px;
+  padding: 30px;
+  /* margin-left: 10px; */
   margin-bottom: 15px;
 }
 .b img {
-  padding: 25px 45px;
-  margin-left: 70px;
+  padding: 30px;
+  /* margin-left: 70px; */
 }
 .a h5 {
-  margin-top: -20px;
-  margin-left: 155px;
+  margin-top: -30px;
+  margin-left: 75px;
 }
 .b h5 {
   margin-top: -30px;
-  margin-left: 155px;
+  margin-left: 75px;
 }
 .cat1 h5 {
+  margin-top: -10px;
   margin-left: 95px;
 }
 .cat1 img {
   padding: 25px 45px;
 }
+.gap {
+  padding-top: 15px;
+}
+/* .background1 {
+  background-color: tomato;
+}
+.background2 {
+  background-color: fuchsia;
+  background-size: -20px;
+} */
