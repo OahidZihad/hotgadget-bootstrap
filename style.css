@@ -42,12 +42,20 @@ p {
 .see-all {
   color: orange;
 }
+.cat1 img {
+  padding: 30px;
+  margin-left: 10px;
+}
 .a img {
   padding: 30px;
   margin-bottom: 15px;
 }
 .b img {
   padding: 30px;
+}
+.cat1 h5 {
+  margin-top: -12px;
+  margin-left: 85px;
 }
 .a h5 {
   margin-top: -30px;
@@ -57,21 +65,20 @@ p {
   margin-top: -30px;
   margin-left: 75px;
 }
-.cat1 h5 {
-  margin-top: -10px;
-  margin-left: 95px;
-}
-.cat1 img {
-  padding: 25px 45px;
-}
 .cat1 {
   background-color: tomato;
+  border: 1px solid tomato;
+  border-radius: 20px;
 }
 .cat2 {
   background-color: cornflowerblue;
+  border: 1px solid cornflowerblue;
+  border-radius: 20px;
 }
 .cat3 {
   background-color: greenyellow;
+  border: 1px solid greenyellow;
+  border-radius: 20px;
 }
 .gap {
   padding-top: 15px;
