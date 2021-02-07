@@ -42,24 +42,12 @@ p {
 .see-all {
   color: orange;
 }
-/* .cat1 { */
-/* background-color: coral; */
-/* padding: 15px 20px; */
-/* } */
-/* .a {
-  padding: 15px 20px;
-}
-.b {
-  padding: 15px 20px;
-} */
 .a img {
   padding: 30px;
-  /* margin-left: 10px; */
   margin-bottom: 15px;
 }
 .b img {
   padding: 30px;
-  /* margin-left: 70px; */
 }
 .a h5 {
   margin-top: -30px;
@@ -76,13 +64,15 @@ p {
 .cat1 img {
   padding: 25px 45px;
 }
+.cat1 {
+  background-color: tomato;
+}
+.cat2 {
+  background-color: cornflowerblue;
+}
+.cat3 {
+  background-color: greenyellow;
+}
 .gap {
   padding-top: 15px;
 }
-/* .background1 {
-  background-color: tomato;
-}
-.background2 {
-  background-color: fuchsia;
-  background-size: -20px;
-} */
